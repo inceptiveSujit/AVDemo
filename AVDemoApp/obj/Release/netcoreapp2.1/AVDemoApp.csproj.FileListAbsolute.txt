@@ -25,3 +25,4 @@ C:\Sujit_Workspace\AVDemo\AVDemoApp\obj\Release\netcoreapp2.1\AVDemoApp.Assembly
 C:\Sujit_Workspace\AVDemo\AVDemoApp\obj\Release\netcoreapp2.1\AVDemoApp.RazorTargetAssemblyInfo.cache
 C:\Sujit_Workspace\AVDemo\AVDemoApp\obj\Release\netcoreapp2.1\AVDemoApp.dll
 C:\Sujit_Workspace\AVDemo\AVDemoApp\obj\Release\netcoreapp2.1\AVDemoApp.pdb
+C:\Sujit_Workspace\AVDemo\AVDemoApp\obj\Release\netcoreapp2.1\AVDemoApp.csprojAssemblyReference.cache
